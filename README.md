@@ -4,6 +4,14 @@
 
 <br clear="both">
 
+<div align="left">
+  <img height="1000" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXk3aWVwN284ZmtoZjZuZ25keXJrd2VmNTQ1aDNxamlsN2o0Z2tnbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dU97uV3UyP0ly/giphy.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
 <img align="left" height="400" src="https://scontent.fmnl42-1.fna.fbcdn.net/v/t39.30808-6/475184438_638442968712450_447477625269461231_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeH1djyxaDI1ufjcnc-oA3Z5EcaRlXP4SYcRxpGVc_hJhyYoKQNqxMBbKeHnaOl0B5TIRHWr6_n-fuqPr8JzKR_7&_nc_ohc=Ca7Nl6yjxdoQ7kNvwFLSvOh&_nc_oc=AdmwNo9zb2M2nuKAVk_MjKZvnUCmbLeRehkYwUiJfktRy7NHh4CyNYyDE1OCtpAHyKk&_nc_zt=23&_nc_ht=scontent.fmnl42-1.fna&_nc_gid=h3KWIlpqBsS7P9z6HGEs6Q&oh=00_AfWWUOvccvw0croz4abLB8o0iBpkXpGqbwumNvLnCcWqlA&oe=689AD260"  />
 
 ###
@@ -16,21 +24,37 @@
 
 ###
 
-<br clear="both">
+<h3 align="left"></h3>
+
+###
+
+<h3 align="left">Connect with me:</h3>
+
+###
 
 <div align="left">
   <a href="https://web.facebook.com/EldieCetie" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="90" height="40" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="36" height="30" alt="facebook logo"  />
   </a>
   <a href="@ldct23" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="90" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="36" height="30" alt="instagram logo"  />
   </a>
   <a href="lowedavidctubat02@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="90" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="36" height="30" alt="gmail logo"  />
   </a>
 </div>
 
 ###
+
+<h3 align="left"></h3>
+
+###
+
+<h2 align="left">Programming languages:</h2>
+
+###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -54,9 +78,13 @@
 
 ###
 
+<h2 align="left"></h2>
+
+###
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=LoweDavid02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LoweDavid02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=gruvbox_light&hide_border=false&order=2" height="300" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LoweDavid02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=gruvbox_light&hide_border=false&order=2" height="400" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LoweDavid02&radius=20&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=LoweDavid02&theme=onedark&column=8&row=2&margin-w=0&margin-h=31&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
