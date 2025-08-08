@@ -4,8 +4,8 @@
 
 <br clear="both">
 
-<div align="left">
-  <img height="1000" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXk3aWVwN284ZmtoZjZuZ25keXJrd2VmNTQ1aDNxamlsN2o0Z2tnbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dU97uV3UyP0ly/giphy.gif"  />
+<div align="center">
+  <img height="2000" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXk3aWVwN284ZmtoZjZuZ25keXJrd2VmNTQ1aDNxamlsN2o0Z2tnbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dU97uV3UyP0ly/giphy.gif"  />
 </div>
 
 ###
