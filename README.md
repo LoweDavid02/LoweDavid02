@@ -16,11 +16,11 @@
 
 ###
 
-<h2 align="left">😍Hi! I'm Lowe David Tubat<br>👩‍💻 Aspiring Developer & UI/UX Designer</h2>
+<h1 align="left">😍Hi! I'm Lowe David Tubat<br>👩‍💻 Aspiring Developer & UI/UX Designer</h1>
 
 ###
 
-<h5 align="left">I’m Lowe David Tubat, a skilled Web Developer with expertise <br>in building responsive, high-performance websites. <br>I specialize in front-end technologies and focus <br>on creating seamless user experiences through clean, <br>efficient code. <br>Passionate about staying at the forefront of web development<br>trends, <br>I continually refine my skills to deliver innovative solutions.<br><br>For more info please visit my Website: https://lowedavid02.github.io/personal-portfolio/</h5>
+<h6 align="left">I’m Lowe David Tubat, a skilled Web Developer with expertise <br>in building responsive, high-performance websites. <br>I specialize in front-end technologies and focus <br>on creating seamless user experiences through clean, <br>efficient code. <br>Passionate about staying at the forefront of web development<br>trends, <br>I continually refine my skills to deliver innovative solutions.<br><br>For more info please visit my Website: https://lowedavid02.github.io/personal-portfolio/</h6>
 
 ###
 
