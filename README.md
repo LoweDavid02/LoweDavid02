@@ -24,10 +24,6 @@
 
 ###
 
-<h3 align="left"></h3>
-
-###
-
 <h4 align="left">Connect with me:</h4>
 
 ###
@@ -46,11 +42,7 @@
 
 ###
 
-<h3 align="left"></h3>
-
-###
-
-<h2 align="left">Programming languages:</h2>
+<h3 align="left">Programming languages:</h3>
 
 ###
 
@@ -75,10 +67,6 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
-
-###
-
-<h2 align="left"></h2>
 
 ###
 
