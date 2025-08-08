@@ -16,11 +16,11 @@
 
 ###
 
-<h1 align="left">😍Hi! I'm Lowe David Tubat<br>👩‍💻 Aspiring Developer & UI/UX Designer</h1>
+<h3 align="left">😍Hi! I'm Lowe David Tubat<br>👩‍💻 Aspiring Developer & UI/UX Designer</h3>
 
 ###
 
-<h6 align="left">I’m Lowe David Tubat, a skilled Web Developer with expertise <br>in building responsive, high-performance websites. <br>I specialize in front-end technologies and focus <br>on creating seamless user experiences through clean, <br>efficient code. <br>Passionate about staying at the forefront of web development<br>trends, <br>I continually refine my skills to deliver innovative solutions.<br><br>For more info please visit my Website: https://lowedavid02.github.io/personal-portfolio/</h6>
+<h4 align="left">I’m Lowe David Tubat, a skilled Web Developer with expertise <br>in building responsive, high-performance websites. <br>I specialize in front-end technologies and focus <br>on creating seamless user experiences through clean, <br>efficient code. <br>Passionate about staying at the forefront of web development<br>trends, <br>I continually refine my skills to deliver innovative solutions.<br><br>For more info please visit my Website: https://lowedavid02.github.io/personal-portfolio/</h4>
 
 ###
 
@@ -28,20 +28,24 @@
 
 ###
 
+<br clear="both">
+
 <h4 align="left">Connect with me:</h4>
 
 ###
 
 <div align="left">
   <a href="https://web.facebook.com/EldieCetie" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="26" height="20" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="46" height="40" alt="facebook logo"  />
   </a>
   <a href="@ldct23" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="26" height="20" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="40" alt="instagram logo"  />
   </a>
   <a href="lowedavidctubat02@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="26" height="20" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="46" height="40" alt="gmail logo"  />
   </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="46" height="40" alt="gitlab logo"  />
 </div>
 
 ###
